@@ -2,4 +2,4 @@
 my minimalist simple portfolio website
 
 ## Live Demo
-[asanindusara.vercel.app]
+https://asanindusara.vercel.app/
